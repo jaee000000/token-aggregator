@@ -5,6 +5,7 @@ Aggregates and serves JSON token list of onchain token data. Token data is store
 ## Installation
 
 
+
 ```bash
 yarn install
 ```
